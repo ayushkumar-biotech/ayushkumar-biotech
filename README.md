@@ -49,7 +49,7 @@
 
 | Certificate | Platform | Year |
 |---|---|---|
-| Programming in Python with AI | Internshala | 2025 |
+| Programming in Python with AI | Internshala | 2026 |
 | Genetic Engineering | Skill Ladders | 2025 |
 
 ---
