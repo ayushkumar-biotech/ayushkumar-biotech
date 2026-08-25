@@ -15,7 +15,7 @@
 - 🔬 Passionate about **Genetic Engineering** and **Bioinformatics**
 - 🤖 Certified in **Python with AI** (Internshala)
 - 📜 Certified in **Genetic Engineering** (Skill Ladders)
-- 🌱 Currently learning **Bioinformatics & Data Analytics**
+- 🌱 Certified in **Clinical Trial Analysis & Reporting** (Internsala)
 - 💡 Interested in **AI applications in Healthcare & Biotech**
 - 📫 Reach me at **ayushprajapati5698@gmail.com**
 
