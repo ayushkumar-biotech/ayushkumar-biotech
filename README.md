@@ -43,6 +43,11 @@
 > built during Internshala certification  
 > **Skills:** Python, AI, Data Analytics
 
+### 🧪 Clinical Trial Analysis & Reporting
+> SAS programs for clinical data summarization
+> built during Internshala certification
+> Skills: SAS, Clinical Data Analysis, Reporting
+
 ---
 
 ## 📜 Certifications
