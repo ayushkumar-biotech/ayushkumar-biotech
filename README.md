@@ -51,6 +51,7 @@
 |---|---|---|
 | Programming in Python with AI | Internshala | 2026 |
 | Genetic Engineering | Skill Ladders | 2025 |
+| Clinical Trial Analysis & Reporting | Internsala | 2026 |
 
 ---
 
