@@ -1,72 +1,88 @@
-<h1 align="center">Hi, I'm Ayush Kumar 👋</h1>
+# Hi, I'm Ayush Kumar 👋
 
-<p align="center">
-🎓 B.Tech Biotechnology Student @ AKTU, Lucknow<br>
-🔬 Genetic Engineering | Bioinformatics | Life Sciences<br>
-🐍 Python & AI Enthusiast<br>
-📍 Lucknow, India | Open to Internships
-</p>
+🎓 **B.Tech Biotechnology Student @ AKTU, Lucknow** (2025–2029)
+
+🔬 Genetic Engineering | Bioinformatics | Life Sciences  
+🐍 Python & AI | SAS | CRISPR  
+📍 Lucknow, India | ✅ Open to Internships
 
 ---
 
 ## 🧬 About Me
 
-- 🎓 Pursuing **B.Tech Biotechnology** at AKTU (2025–2029)
-- 🔬 Passionate about **Genetic Engineering** and **Bioinformatics**
-- 🤖 Certified in **Python with AI** (Internshala)
-- 📜 Certified in **Genetic Engineering** (Skill Ladders)
-- 🌱 Certified in **Clinical Trial Analysis & Reporting** (Internsala)
-- 💡 Interested in **AI applications in Healthcare & Biotech**
+- 🎓 Pursuing **B.Tech Biotechnology** at Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+- 🔬 Passionate about **Genetic Engineering**, **Bioinformatics**, and **AI applications in Healthcare**
+- 🧪 Completed internships in **Bioinformatics (CodeAlpha)** and **QA/QC & Production (Researium Labs)**
+- 📜 Certified in **Python with AI**, **Clinical Trial Analysis & Reporting (SAS)**, **Genetic Engineering**, and **Critical Thinking in the AI Era (HP LIFE)**
+- 💡 Interested in bridging life sciences with technology through data-driven research
 - 📫 Reach me at **ayushprajapati5698@gmail.com**
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge)
-![Biotechnology](https://img.shields.io/badge/Biotechnology-00897B?style=for-the-badge)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-4CAF50?style=for-the-badge)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+**Biotechnology & Life Sciences**  
+Molecular Biology · Genetics · Genetic Engineering · CRISPR · Microbiology · Cell Biology · Biochemistry · Immunology · Bioinformatics · Genomics
+
+**Bioinformatics Tools**  
+BLAST · BLASTN · Clustal Omega · Multiple Sequence Alignment (MSA) · Sequence Analysis
+
+**Programming & Data Analysis**  
+Python · Artificial Intelligence · Data Analytics · SAS Programming · C++ · Java
+
+**Clinical & Pharma**  
+Clinical Trial Analysis & Reporting · Quality Assurance (QA) · Quality Control (QC) · Pharmaceutical Production
+
+---
+
+## 💼 Internships
+
+### 🧬 Bioinformatics Intern — CodeAlpha  
+**Aug 2026 – Sep 2026** (Virtual)
+- Performed BLASTN analysis of the human insulin gene (INS)
+- Conducted Multiple Sequence Alignment (MSA) of beta-globin (HBB) using Clustal Omega
+- Identified conserved residues under purifying selection
+
+### 🧪 QA/QC & Production Intern — Researium Labs  
+**Aug 2026 – Sep 2026** (Online, 30 hours)
+- Training on Quality Assurance, Quality Control & Production for the Pharmaceutical Industry
 
 ---
 
 ## 📁 Projects
 
 ### 🧬 Genetic Engineering Capstone Project
-> Research project on gene modification techniques  
-> and CRISPR applications in healthcare  
-> **Skills:** Genetic Engineering, Scientific Research, Data Analysis
+> Research project on gene modification techniques and CRISPR applications in healthcare  
+> **Skills:** Genetic Engineering, CRISPR, Scientific Research, Data Analysis
 
 ### 🐍 Python with AI Mini Projects
-> Beginner AI and data analytics programs  
-> built during Internshala certification  
+> Beginner AI and data analytics programs built during Internshala certification  
 > **Skills:** Python, AI, Data Analytics
 
-### 🧪 Clinical Trial Analysis & Reporting
-> SAS programs for clinical data summarization
-> built during Internshala certification
-> Skills: SAS, Clinical Data Analysis, Reporting
+### 📊 Clinical Demographics Summary Table (SAS)
+> SAS programs for clinical data summarization (Table 1.1)  
+> **Skills:** SAS, Clinical Data Analysis, Reporting
 
 ---
 
 ## 📜 Certifications
 
-| Certificate | Platform | Year |
-|---|---|---|
-| Programming in Python with AI | Internshala | 2026 |
-| Genetic Engineering | Skill Ladders | 2025 |
-| Clinical Trial Analysis & Reporting | Internsala | 2026 |
+| Certificate                              | Platform              | Year |
+|------------------------------------------|-----------------------|------|
+| Programming in Python with AI            | Internshala           | 2025 |
+| Genetic Engineering                      | Skill Ladders         | 2025 |
+| Clinical Trial Analysis & Reporting      | Internshala           | 2026 |
+| Critical Thinking in the AI Era          | HP LIFE (HP Foundation) | 2026 |
 
 ---
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushkumar-biotech)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushprajapati5698@gmail.com)
+- 📧 **Email:** ayushprajapati5698@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/ayush-kumar-biotechnology](https://linkedin.com/in/ayush-kumar-biotechnology)  
+- 🐱 **GitHub:** [github.com/ayushkumar-biotech](https://github.com/ayushkumar-biotech)  
+- 🌐 **Portfolio:** [ayushkumar-biotech.github.io](https://ayushkumar-biotech.github.io)
 
 ---
 
-<p align="center">
 ⭐ If you find my work interesting, consider following me!
-</p>
